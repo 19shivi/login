@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484308798915",
+    "project_id": "login-65960",
+    "storage_bucket": "login-65960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484308798915:android:d6798ffb8eded2be664176",
+        "android_client_info": {
+          "package_name": "com.shivam.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484308798915-dkfllt55ju24clmofllbd898qg6o2o3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWXpwRMFpEi84XedVuswySVWz4tg2zZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484308798915-dkfllt55ju24clmofllbd898qg6o2o3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
